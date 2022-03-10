@@ -1,0 +1,578 @@
+CRITICAL - 2022-03-10 12:27:18 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\c4\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\c4\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\c4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\c4\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-03-10 12:29:50 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\c4\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\c4\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\c4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\c4\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-03-10 12:29:52 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\c4\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\c4\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\c4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\c4\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-03-10 12:29:53 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\c4\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\c4\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\c4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\c4\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-03-10 12:29:53 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\c4\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\c4\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\c4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\c4\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-03-10 12:30:16 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\c4\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\c4\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\c4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\c4\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-03-10 12:30:16 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\c4\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\c4\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\c4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\c4\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-03-10 12:30:17 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\c4\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\c4\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\c4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\c4\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-03-10 12:30:30 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\c4\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\c4\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\c4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\c4\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-03-10 12:30:30 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\c4\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\c4\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\c4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\c4\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-03-10 06:29:06 --> Call to a member function findAll() on null
+#0 C:\xampp\htdocs\c4\system\CodeIgniter.php(832): App\Controllers\User->index()
+#1 C:\xampp\htdocs\c4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#2 C:\xampp\htdocs\c4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\c4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\c4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-03-10 06:29:40 --> Call to a member function findAll() on null
+#0 C:\xampp\htdocs\c4\system\CodeIgniter.php(832): App\Controllers\User->index()
+#1 C:\xampp\htdocs\c4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#2 C:\xampp\htdocs\c4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\c4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\c4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-03-10 06:29:41 --> Call to a member function findAll() on null
+#0 C:\xampp\htdocs\c4\system\CodeIgniter.php(832): App\Controllers\User->index()
+#1 C:\xampp\htdocs\c4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#2 C:\xampp\htdocs\c4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\c4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\c4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-03-10 06:30:55 --> Call to a member function findAll() on null
+#0 C:\xampp\htdocs\c4\system\CodeIgniter.php(832): App\Controllers\User->index()
+#1 C:\xampp\htdocs\c4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#2 C:\xampp\htdocs\c4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\c4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\c4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-03-10 06:35:58 --> Call to a member function findAll() on null
+#0 C:\xampp\htdocs\c4\system\CodeIgniter.php(832): App\Controllers\User->index()
+#1 C:\xampp\htdocs\c4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#2 C:\xampp\htdocs\c4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\c4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\c4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-03-10 06:37:49 --> Call to a member function findAll() on null
+#0 C:\xampp\htdocs\c4\system\CodeIgniter.php(832): App\Controllers\User->index()
+#1 C:\xampp\htdocs\c4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#2 C:\xampp\htdocs\c4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\c4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\c4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-03-10 06:37:51 --> Call to a member function findAll() on null
+#0 C:\xampp\htdocs\c4\system\CodeIgniter.php(832): App\Controllers\User->index()
+#1 C:\xampp\htdocs\c4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#2 C:\xampp\htdocs\c4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\c4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\c4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-03-10 06:39:25 --> Call to a member function findAll() on null
+#0 C:\xampp\htdocs\c4\system\CodeIgniter.php(832): App\Controllers\User->index()
+#1 C:\xampp\htdocs\c4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#2 C:\xampp\htdocs\c4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\c4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\c4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-03-10 06:41:27 --> Call to a member function findAll() on null
+#0 C:\xampp\htdocs\c4\system\CodeIgniter.php(832): App\Controllers\User->index()
+#1 C:\xampp\htdocs\c4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#2 C:\xampp\htdocs\c4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\c4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\c4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-03-10 06:41:33 --> Call to a member function findAll() on null
+#0 C:\xampp\htdocs\c4\system\CodeIgniter.php(832): App\Controllers\User->index()
+#1 C:\xampp\htdocs\c4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#2 C:\xampp\htdocs\c4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\c4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\c4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-03-10 06:42:51 --> syntax error, unexpected '@', expecting function (T_FUNCTION) or const (T_CONST)
+#0 C:\xampp\htdocs\c4\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('user')
+#1 C:\xampp\htdocs\c4\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('user')
+#2 C:\xampp\htdocs\c4\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\c4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\c4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\c4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-10 06:42:52 --> syntax error, unexpected '@', expecting function (T_FUNCTION) or const (T_CONST)
+#0 C:\xampp\htdocs\c4\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('user')
+#1 C:\xampp\htdocs\c4\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('user')
+#2 C:\xampp\htdocs\c4\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\c4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\c4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\c4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-10 06:43:00 --> syntax error, unexpected 'class' (T_CLASS)
+#0 C:\xampp\htdocs\c4\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('user')
+#1 C:\xampp\htdocs\c4\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('user')
+#2 C:\xampp\htdocs\c4\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\c4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\c4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\c4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-10 06:43:06 --> Call to a member function findAll() on null
+#0 C:\xampp\htdocs\c4\system\CodeIgniter.php(832): App\Controllers\User->index()
+#1 C:\xampp\htdocs\c4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#2 C:\xampp\htdocs\c4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\c4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\c4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-03-10 06:47:28 --> Call to a member function findAll() on null
+#0 C:\xampp\htdocs\c4\system\CodeIgniter.php(832): App\Controllers\User->index()
+#1 C:\xampp\htdocs\c4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#2 C:\xampp\htdocs\c4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\c4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\c4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-03-10 06:47:29 --> Call to a member function findAll() on null
+#0 C:\xampp\htdocs\c4\system\CodeIgniter.php(832): App\Controllers\User->index()
+#1 C:\xampp\htdocs\c4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#2 C:\xampp\htdocs\c4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\c4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\c4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-03-10 07:00:39 --> Class 'App\Controllers\UserModel' not found
+#0 C:\xampp\htdocs\c4\system\CodeIgniter.php(809): App\Controllers\User->__construct()
+#1 C:\xampp\htdocs\c4\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\c4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\c4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\c4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-03-10 07:00:40 --> Class 'App\Controllers\UserModel' not found
+#0 C:\xampp\htdocs\c4\system\CodeIgniter.php(809): App\Controllers\User->__construct()
+#1 C:\xampp\htdocs\c4\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\c4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\c4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\c4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-03-10 07:00:41 --> Class 'App\Controllers\UserModel' not found
+#0 C:\xampp\htdocs\c4\system\CodeIgniter.php(809): App\Controllers\User->__construct()
+#1 C:\xampp\htdocs\c4\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\c4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\c4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\c4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-03-10 07:00:42 --> Class 'App\Controllers\UserModel' not found
+#0 C:\xampp\htdocs\c4\system\CodeIgniter.php(809): App\Controllers\User->__construct()
+#1 C:\xampp\htdocs\c4\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\c4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\c4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\c4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-03-10 07:03:18 --> Class 'App\Controllers\UserModel' not found
+#0 C:\xampp\htdocs\c4\system\CodeIgniter.php(809): App\Controllers\User->__construct()
+#1 C:\xampp\htdocs\c4\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\c4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\c4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\c4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-03-10 07:03:19 --> Class 'App\Controllers\UserModel' not found
+#0 C:\xampp\htdocs\c4\system\CodeIgniter.php(809): App\Controllers\User->__construct()
+#1 C:\xampp\htdocs\c4\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\c4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\c4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\c4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-03-10 07:03:19 --> Class 'App\Controllers\UserModel' not found
+#0 C:\xampp\htdocs\c4\system\CodeIgniter.php(809): App\Controllers\User->__construct()
+#1 C:\xampp\htdocs\c4\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\c4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\c4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\c4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-03-10 07:03:20 --> Class 'App\Controllers\UserModel' not found
+#0 C:\xampp\htdocs\c4\system\CodeIgniter.php(809): App\Controllers\User->__construct()
+#1 C:\xampp\htdocs\c4\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\c4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\c4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\c4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-03-10 07:05:09 --> Class 'App\Controllers\UserModel' not found
+#0 C:\xampp\htdocs\c4\system\CodeIgniter.php(809): App\Controllers\User->__construct()
+#1 C:\xampp\htdocs\c4\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\c4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\c4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\c4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-03-10 07:06:56 --> Class 'App\Controllers\UserModel' not found
+#0 C:\xampp\htdocs\c4\system\CodeIgniter.php(809): App\Controllers\User->__construct()
+#1 C:\xampp\htdocs\c4\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\c4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\c4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\c4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-03-10 07:06:57 --> Class 'App\Controllers\UserModel' not found
+#0 C:\xampp\htdocs\c4\system\CodeIgniter.php(809): App\Controllers\User->__construct()
+#1 C:\xampp\htdocs\c4\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\c4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\c4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\c4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-03-10 07:06:57 --> Class 'App\Controllers\UserModel' not found
+#0 C:\xampp\htdocs\c4\system\CodeIgniter.php(809): App\Controllers\User->__construct()
+#1 C:\xampp\htdocs\c4\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\c4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\c4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\c4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-03-10 07:06:58 --> Class 'App\Controllers\UserModel' not found
+#0 C:\xampp\htdocs\c4\system\CodeIgniter.php(809): App\Controllers\User->__construct()
+#1 C:\xampp\htdocs\c4\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\c4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\c4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\c4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-03-10 07:07:03 --> Class 'App\Controllers\UserModel' not found
+#0 C:\xampp\htdocs\c4\system\CodeIgniter.php(809): App\Controllers\User->__construct()
+#1 C:\xampp\htdocs\c4\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\c4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\c4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\c4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-03-10 07:07:03 --> Class 'App\Controllers\UserModel' not found
+#0 C:\xampp\htdocs\c4\system\CodeIgniter.php(809): App\Controllers\User->__construct()
+#1 C:\xampp\htdocs\c4\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\c4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\c4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\c4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-03-10 07:08:52 --> Class 'App\Controllers\UserModel' not found
+#0 C:\xampp\htdocs\c4\system\CodeIgniter.php(809): App\Controllers\User->__construct()
+#1 C:\xampp\htdocs\c4\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\c4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\c4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\c4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-03-10 07:08:52 --> Class 'App\Controllers\UserModel' not found
+#0 C:\xampp\htdocs\c4\system\CodeIgniter.php(809): App\Controllers\User->__construct()
+#1 C:\xampp\htdocs\c4\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\c4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\c4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\c4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-03-10 07:08:53 --> Class 'App\Controllers\UserModel' not found
+#0 C:\xampp\htdocs\c4\system\CodeIgniter.php(809): App\Controllers\User->__construct()
+#1 C:\xampp\htdocs\c4\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\c4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\c4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\c4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-03-10 07:08:54 --> Class 'App\Controllers\UserModel' not found
+#0 C:\xampp\htdocs\c4\system\CodeIgniter.php(809): App\Controllers\User->__construct()
+#1 C:\xampp\htdocs\c4\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\c4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\c4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\c4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-03-10 07:32:26 --> syntax error, unexpected '}', expecting end of file
+#0 C:\xampp\htdocs\c4\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('user')
+#1 C:\xampp\htdocs\c4\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('user')
+#2 C:\xampp\htdocs\c4\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\c4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\c4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\c4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-10 07:32:28 --> syntax error, unexpected '}', expecting end of file
+#0 C:\xampp\htdocs\c4\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('user')
+#1 C:\xampp\htdocs\c4\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('user')
+#2 C:\xampp\htdocs\c4\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\c4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\c4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\c4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-10 07:33:05 --> syntax error, unexpected '}', expecting end of file
+#0 C:\xampp\htdocs\c4\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('user')
+#1 C:\xampp\htdocs\c4\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('user')
+#2 C:\xampp\htdocs\c4\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\c4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\c4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\c4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-10 08:04:49 --> Invalid file: form.php
+#0 C:\xampp\htdocs\c4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('form.php')
+#1 C:\xampp\htdocs\c4\system\Common.php(1089): CodeIgniter\View\View->render('form', Array, true)
+#2 C:\xampp\htdocs\c4\app\Controllers\User.php(34): view('form')
+#3 C:\xampp\htdocs\c4\system\CodeIgniter.php(832): App\Controllers\User->create()
+#4 C:\xampp\htdocs\c4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#5 C:\xampp\htdocs\c4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\c4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\c4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-03-10 08:13:33 --> Invalid file: form.php
+#0 C:\xampp\htdocs\c4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('form.php')
+#1 C:\xampp\htdocs\c4\system\Common.php(1089): CodeIgniter\View\View->render('form', Array, true)
+#2 C:\xampp\htdocs\c4\app\Controllers\User.php(34): view('form')
+#3 C:\xampp\htdocs\c4\system\CodeIgniter.php(832): App\Controllers\User->create()
+#4 C:\xampp\htdocs\c4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#5 C:\xampp\htdocs\c4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\c4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\c4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-03-10 08:20:02 --> Invalid file: form.php
+#0 C:\xampp\htdocs\c4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('form.php')
+#1 C:\xampp\htdocs\c4\system\Common.php(1089): CodeIgniter\View\View->render('form', Array, true)
+#2 C:\xampp\htdocs\c4\app\Controllers\User.php(34): view('form')
+#3 C:\xampp\htdocs\c4\system\CodeIgniter.php(832): App\Controllers\User->create()
+#4 C:\xampp\htdocs\c4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#5 C:\xampp\htdocs\c4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\c4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\c4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-03-10 08:20:03 --> Invalid file: form.php
+#0 C:\xampp\htdocs\c4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('form.php')
+#1 C:\xampp\htdocs\c4\system\Common.php(1089): CodeIgniter\View\View->render('form', Array, true)
+#2 C:\xampp\htdocs\c4\app\Controllers\User.php(34): view('form')
+#3 C:\xampp\htdocs\c4\system\CodeIgniter.php(832): App\Controllers\User->create()
+#4 C:\xampp\htdocs\c4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#5 C:\xampp\htdocs\c4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\c4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\c4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-03-10 08:21:58 --> Invalid file: form.php
+#0 C:\xampp\htdocs\c4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('form.php')
+#1 C:\xampp\htdocs\c4\system\Common.php(1089): CodeIgniter\View\View->render('form', Array, true)
+#2 C:\xampp\htdocs\c4\app\Controllers\User.php(34): view('form')
+#3 C:\xampp\htdocs\c4\system\CodeIgniter.php(832): App\Controllers\User->create()
+#4 C:\xampp\htdocs\c4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#5 C:\xampp\htdocs\c4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\c4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\c4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-03-10 08:29:05 --> Invalid file: Views\form.php
+#0 C:\xampp\htdocs\c4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Views\\form.php')
+#1 C:\xampp\htdocs\c4\system\Common.php(1089): CodeIgniter\View\View->render('Views\\form', Array, true)
+#2 C:\xampp\htdocs\c4\app\Controllers\User.php(34): view('Views\\form')
+#3 C:\xampp\htdocs\c4\system\CodeIgniter.php(832): App\Controllers\User->create()
+#4 C:\xampp\htdocs\c4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#5 C:\xampp\htdocs\c4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\c4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\c4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-03-10 08:29:07 --> Invalid file: Views\form.php
+#0 C:\xampp\htdocs\c4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Views\\form.php')
+#1 C:\xampp\htdocs\c4\system\Common.php(1089): CodeIgniter\View\View->render('Views\\form', Array, true)
+#2 C:\xampp\htdocs\c4\app\Controllers\User.php(34): view('Views\\form')
+#3 C:\xampp\htdocs\c4\system\CodeIgniter.php(832): App\Controllers\User->create()
+#4 C:\xampp\htdocs\c4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#5 C:\xampp\htdocs\c4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\c4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\c4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-03-10 08:29:12 --> Invalid file: Views\form.php
+#0 C:\xampp\htdocs\c4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Views\\form.php')
+#1 C:\xampp\htdocs\c4\system\Common.php(1089): CodeIgniter\View\View->render('Views\\form', Array, true)
+#2 C:\xampp\htdocs\c4\app\Controllers\User.php(34): view('Views\\form')
+#3 C:\xampp\htdocs\c4\system\CodeIgniter.php(832): App\Controllers\User->create()
+#4 C:\xampp\htdocs\c4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#5 C:\xampp\htdocs\c4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\c4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\c4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-03-10 08:34:59 --> Invalid file: Views\form.php
+#0 C:\xampp\htdocs\c4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Views\\form.php')
+#1 C:\xampp\htdocs\c4\system\Common.php(1089): CodeIgniter\View\View->render('Views\\form', Array, true)
+#2 C:\xampp\htdocs\c4\app\Controllers\User.php(34): view('Views\\form')
+#3 C:\xampp\htdocs\c4\system\CodeIgniter.php(832): App\Controllers\User->create()
+#4 C:\xampp\htdocs\c4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#5 C:\xampp\htdocs\c4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\c4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\c4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-03-10 08:35:16 --> Invalid file: Views\form.php
+#0 C:\xampp\htdocs\c4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Views\\form.php')
+#1 C:\xampp\htdocs\c4\system\Common.php(1089): CodeIgniter\View\View->render('Views\\form', Array, true)
+#2 C:\xampp\htdocs\c4\app\Controllers\User.php(34): view('Views\\form')
+#3 C:\xampp\htdocs\c4\system\CodeIgniter.php(832): App\Controllers\User->create()
+#4 C:\xampp\htdocs\c4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#5 C:\xampp\htdocs\c4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\c4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\c4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-03-10 08:35:39 --> Invalid file: Views\form.php
+#0 C:\xampp\htdocs\c4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Views\\form.php')
+#1 C:\xampp\htdocs\c4\system\Common.php(1089): CodeIgniter\View\View->render('Views\\form', Array, true)
+#2 C:\xampp\htdocs\c4\app\Controllers\User.php(34): view('Views\\form')
+#3 C:\xampp\htdocs\c4\system\CodeIgniter.php(832): App\Controllers\User->create()
+#4 C:\xampp\htdocs\c4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#5 C:\xampp\htdocs\c4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\c4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\c4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-03-10 08:52:45 --> syntax error, unexpected '}', expecting ';'
+#0 C:\xampp\htdocs\c4\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('user/create')
+#1 C:\xampp\htdocs\c4\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('user/create')
+#2 C:\xampp\htdocs\c4\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\c4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\c4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\c4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-10 08:52:47 --> syntax error, unexpected '}', expecting ';'
+#0 C:\xampp\htdocs\c4\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('user/create')
+#1 C:\xampp\htdocs\c4\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('user/create')
+#2 C:\xampp\htdocs\c4\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\c4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\c4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\c4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-10 08:54:04 --> Invalid file: messages.php
+#0 C:\xampp\htdocs\c4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('messages.php')
+#1 C:\xampp\htdocs\c4\system\Common.php(1089): CodeIgniter\View\View->render('messages', Array, true)
+#2 C:\xampp\htdocs\c4\app\Controllers\User.php(39): view('messages', Array)
+#3 C:\xampp\htdocs\c4\system\CodeIgniter.php(832): App\Controllers\User->store()
+#4 C:\xampp\htdocs\c4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#5 C:\xampp\htdocs\c4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\c4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\c4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-03-10 10:47:12 --> syntax error, unexpected '}', expecting ';'
+#0 C:\xampp\htdocs\c4\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('user/')
+#1 C:\xampp\htdocs\c4\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('user/')
+#2 C:\xampp\htdocs\c4\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\c4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\c4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\c4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-10 10:47:13 --> syntax error, unexpected '}', expecting ';'
+#0 C:\xampp\htdocs\c4\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('user/')
+#1 C:\xampp\htdocs\c4\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('user/')
+#2 C:\xampp\htdocs\c4\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\c4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\c4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\c4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-10 11:16:31 --> Too few arguments to function App\Controllers\User::delete(), 0 passed in C:\xampp\htdocs\c4\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\c4\system\CodeIgniter.php(832): App\Controllers\User->delete()
+#1 C:\xampp\htdocs\c4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#2 C:\xampp\htdocs\c4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\c4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\c4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-03-10 11:18:16 --> Too few arguments to function App\Controllers\User::delete(), 0 passed in C:\xampp\htdocs\c4\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\c4\system\CodeIgniter.php(832): App\Controllers\User->delete()
+#1 C:\xampp\htdocs\c4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#2 C:\xampp\htdocs\c4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\c4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\c4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-03-10 12:10:23 --> syntax error, unexpected '"</script>'' (T_CONSTANT_ENCAPSED_STRING), expecting ']'
+#0 C:\xampp\htdocs\c4\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('user/')
+#1 C:\xampp\htdocs\c4\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('user/')
+#2 C:\xampp\htdocs\c4\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\c4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\c4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\c4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-10 12:10:42 --> Too few arguments to function App\Controllers\User::delete(), 0 passed in C:\xampp\htdocs\c4\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\c4\system\CodeIgniter.php(832): App\Controllers\User->delete()
+#1 C:\xampp\htdocs\c4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#2 C:\xampp\htdocs\c4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\c4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\c4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-03-10 12:12:30 --> Array to string conversion
+#0 C:\xampp\htdocs\c4\app\Controllers\User.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string...', 'C:\\xampp\\htdocs...', 48, Array)
+#1 C:\xampp\htdocs\c4\system\CodeIgniter.php(832): App\Controllers\User->edit('6')
+#2 C:\xampp\htdocs\c4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#3 C:\xampp\htdocs\c4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\c4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\c4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-10 12:12:43 --> Array to string conversion
+#0 C:\xampp\htdocs\c4\app\Controllers\User.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string...', 'C:\\xampp\\htdocs...', 48, Array)
+#1 C:\xampp\htdocs\c4\system\CodeIgniter.php(832): App\Controllers\User->edit('6')
+#2 C:\xampp\htdocs\c4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#3 C:\xampp\htdocs\c4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\c4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\c4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-10 12:12:46 --> Too few arguments to function App\Controllers\User::edit(), 0 passed in C:\xampp\htdocs\c4\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\c4\system\CodeIgniter.php(832): App\Controllers\User->edit()
+#1 C:\xampp\htdocs\c4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#2 C:\xampp\htdocs\c4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\c4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\c4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-03-10 12:12:49 --> Array to string conversion
+#0 C:\xampp\htdocs\c4\app\Controllers\User.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string...', 'C:\\xampp\\htdocs...', 48, Array)
+#1 C:\xampp\htdocs\c4\system\CodeIgniter.php(832): App\Controllers\User->edit('8')
+#2 C:\xampp\htdocs\c4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#3 C:\xampp\htdocs\c4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\c4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\c4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-10 12:13:23 --> syntax error, unexpected ';', expecting ']'
+#0 C:\xampp\htdocs\c4\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('user/edit/8')
+#1 C:\xampp\htdocs\c4\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('user/edit/8')
+#2 C:\xampp\htdocs\c4\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\c4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\c4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\c4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-10 12:13:27 --> syntax error, unexpected ';', expecting ']'
+#0 C:\xampp\htdocs\c4\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('user')
+#1 C:\xampp\htdocs\c4\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('user')
+#2 C:\xampp\htdocs\c4\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\c4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\c4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\c4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-03-10 12:13:30 --> syntax error, unexpected ';', expecting ']'
+#0 C:\xampp\htdocs\c4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\c4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\c4\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\c4\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\c4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\c4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-10 12:14:20 --> Array to string conversion
+#0 C:\xampp\htdocs\c4\app\Controllers\User.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string...', 'C:\\xampp\\htdocs...', 48, Array)
+#1 C:\xampp\htdocs\c4\system\CodeIgniter.php(832): App\Controllers\User->edit('6')
+#2 C:\xampp\htdocs\c4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#3 C:\xampp\htdocs\c4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\c4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\c4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
